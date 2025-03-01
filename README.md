@@ -1,10 +1,10 @@
-## Tailwind v4 with NativeScript
+## Tailwindcss v4 with NativeScript
 
 <img src="https://raw.githubusercontent.com/NativeScript/artwork/main/logo/export/NativeScript_Logo_Wide_White_Blue_Rounded_Blue.png" width="200"/> 
 
 NativeScript (8.9+) apps using Angular, React, Solid, Svelte, TypeScript and Vue with [Tailwindcss v4](https://tailwindcss.com/)
 
-- [Tailwind v4 with NativeScript](#tailwind-v4-with-nativescript)
+- [Tailwindcss v4 with NativeScript](#tailwindcss-v4-with-nativescript)
 - [Try an example](#try-an-example)
 
 ## Try an example
