@@ -1,6 +1,6 @@
 ## Tailwindcss v4 with NativeScript
 
-<img src="https://raw.githubusercontent.com/NativeScript/artwork/main/logo/export/NativeScript_Logo_Wide_White_Blue_Rounded_Blue.png" width="200"/> 
+<img width="1507" alt="Screenshot 2025-03-01 at 3 49 24 PM" src="https://github.com/user-attachments/assets/a8e64faa-7c32-4c47-9cdf-584a5eee7bef" />
 
 NativeScript (8.9+) apps using Angular, React, Solid, Svelte, TypeScript and Vue with [Tailwindcss v4](https://tailwindcss.com/)
 
