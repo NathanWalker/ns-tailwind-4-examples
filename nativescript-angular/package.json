@@ -1,0 +1,31 @@
+{
+  "name": "nsangular",
+  "main": "./src/main.ts",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "~19.2.0",
+    "@angular/common": "~19.2.0",
+    "@angular/compiler": "~19.2.0",
+    "@angular/compiler-cli": "~19.2.0",
+    "@angular/core": "~19.2.0",
+    "@angular/forms": "~19.2.0",
+    "@angular/platform-browser": "~19.2.0",
+    "@angular/platform-browser-dynamic": "~19.2.0",
+    "@angular/router": "~19.2.0",
+    "@nativescript/angular": "^19.0.0",
+    "@nativescript/core": "~8.9.0"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "~19.2.0",
+    "@nativescript/android": "~8.9.0",
+    "@nativescript/ios": "~8.9.0",
+    "@nativescript/tailwind": "^4.0.0",
+    "@nativescript/types": "~8.9.0",
+    "@nativescript/webpack": "~5.0.0",
+    "@ngtools/webpack": "~19.2.0",
+    "tailwindcss": "~4.0.9",
+    "typescript": "~5.7.0"
+  }
+}

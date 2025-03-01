@@ -1,0 +1,22 @@
+{
+  "name": "nsreact",
+  "main": "src/app.ts",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@nativescript/core": "~8.9.0",
+    "react": "~18.2.0",
+    "react-nativescript": "^5.0.0",
+    "react-nativescript-navigation": "^5.0.0"
+  },
+  "devDependencies": {
+    "@nativescript/android": "~8.9.0",
+    "@nativescript/ios": "~8.9.0",
+    "@nativescript/tailwind": "^4.0.0",
+    "@nativescript/types": "~8.9.0",
+    "@nativescript/webpack": "~5.0.0",
+    "@types/react": "npm:types-react-without-jsx-intrinsics@^18.0.17",
+    "tailwindcss": "~4.0.9",
+    "typescript": "~5.7.0"
+  }
+}
