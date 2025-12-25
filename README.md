@@ -2,7 +2,9 @@
 
 <img width="1507" alt="Screenshot 2025-03-01 at 3 49 24 PM" src="https://github.com/user-attachments/assets/a8e64faa-7c32-4c47-9cdf-584a5eee7bef" />
 
-NativeScript (8.9+) apps using Angular, React, Solid, Svelte, TypeScript and Vue with [Tailwindcss v4](https://tailwindcss.com/)
+NativeScript (9.0+) apps using Angular, React, Solid, Svelte, TypeScript and Vue with [Tailwindcss v4](https://tailwindcss.com/)
+
+Ensure using latest cli: `npm i -g nativescript@latest`
 
 - [Tailwindcss v4 with NativeScript](#tailwindcss-v4-with-nativescript)
 - [Try an example](#try-an-example)
@@ -11,7 +13,7 @@ NativeScript (8.9+) apps using Angular, React, Solid, Svelte, TypeScript and Vue
 
 Prerequisites:
 - [NativeScript Environment Setup](https://docs.nativescript.org/environment-setup.html)
-- node >=20 (recommend 20.12.x or higher)
+- node >=22
   
 <img src="https://angular.dev/assets/images/press-kit/angular_wordmark_gradient.png" width="100"/>
 

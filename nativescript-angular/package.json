@@ -5,27 +5,27 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@angular/animations": "~19.2.0",
-    "@angular/common": "~19.2.0",
-    "@angular/compiler": "~19.2.0",
-    "@angular/compiler-cli": "~19.2.0",
-    "@angular/core": "~19.2.0",
-    "@angular/forms": "~19.2.0",
-    "@angular/platform-browser": "~19.2.0",
-    "@angular/platform-browser-dynamic": "~19.2.0",
-    "@angular/router": "~19.2.0",
-    "@nativescript/angular": "^19.0.0",
-    "@nativescript/core": "~8.9.0"
+    "@angular/animations": "~21.0.0",
+    "@angular/common": "~21.0.0",
+    "@angular/compiler": "~21.0.0",
+    "@angular/compiler-cli": "~21.0.0",
+    "@angular/core": "~21.0.0",
+    "@angular/forms": "~21.0.0",
+    "@angular/platform-browser": "~21.0.0",
+    "@angular/platform-browser-dynamic": "~21.0.0",
+    "@angular/router": "~21.0.0",
+    "@nativescript/angular": "rc",
+    "@nativescript/core": "~9.0.0"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~19.2.0",
-    "@nativescript/android": "~8.9.0",
-    "@nativescript/ios": "~8.9.0",
-    "@nativescript/tailwind": "^4.0.0",
-    "@nativescript/types": "~8.9.0",
+    "@angular-devkit/build-angular": "~21.0.0",
+    "@nativescript/android": "~9.0.0",
+    "@nativescript/ios": "~9.0.0",
+    "@nativescript/tailwind": "^4.0.3",
+    "@nativescript/types": "~9.0.0",
     "@nativescript/webpack": "~5.0.0",
-    "@ngtools/webpack": "~19.2.0",
-    "tailwindcss": "~4.0.9",
-    "typescript": "~5.7.0"
+    "@ngtools/webpack": "~21.0.0",
+    "tailwindcss": "~4.1.5",
+    "typescript": "~5.9.0"
   }
 }
