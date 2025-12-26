@@ -12,11 +12,14 @@
   "devDependencies": {
     "@nativescript/android": "~9.0.0",
     "@nativescript/ios": "~9.0.0",
-    "@nativescript/tailwind": "^4.0.2",
+    "@nativescript/tailwind": "^4.0.7",
     "@nativescript/types": "~9.0.0",
     "@nativescript/webpack": "~5.0.0",
     "@types/react": "npm:types-react-without-jsx-intrinsics@^18.0.17",
     "tailwindcss": "~4.1.5",
     "typescript": "~5.9.0"
+  },
+  "overrides": {
+    "@nativescript/core": "~9.0.0"
   }
 }

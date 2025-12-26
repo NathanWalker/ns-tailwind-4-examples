@@ -24,7 +24,7 @@
     "@angular-devkit/build-angular": "~21.0.0",
     "@nativescript/android": "~9.0.0",
     "@nativescript/ios": "~9.0.0",
-    "@nativescript/tailwind": "^4.0.3",
+    "@nativescript/tailwind": "^4.0.7",
     "@nativescript/types": "~9.0.0",
     "@nativescript/webpack": "~5.0.0",
     "@ngtools/webpack": "~21.0.0",
